@@ -1,5 +1,7 @@
 # User Manual for Chatbot
 
+Open the shared URL in the folder BotPress Chatbot, and click on the link to reach the BotPress website.
+
 To start a conversation, the user needs to initiate first in the conversation.
 
 The user's inputs will be invalid until they reach an option that allows them to freely ask questions.
