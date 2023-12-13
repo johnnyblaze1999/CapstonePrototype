@@ -7,4 +7,4 @@ OpenAI fine-tune: An approach to add a knowledge base to OpenAI GPT 3.5 by sendi
 
 Train AI on existing dataset: An approach to creating a bot from scratch, and using the dataset as an answer sheet. This method is not working because it requires a lot of time to train and modify the bot.
 
-BotPress Chatbot: The current state of the project with a working chatbot.
+BotPress Chatbot: The current state of the project with a working chatbot. It also includes a simple knowledge base file that is uploaded to BotPress Chatbot.
