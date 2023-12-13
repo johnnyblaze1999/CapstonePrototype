@@ -1,0 +1,68 @@
+Q: Do you have any membership plan?
+A: Unfortunately, we don't offer any at the moment.
+
+Q: What books do you have in store?
+A: We have Dune: Part Two, The Book Thief, Gone Girl, Eleanor Oliphant Is Completely Fine: A Novel, and Meditations in store.
+
+Q: What type of genre do you offer?
+A: We offer our customers a total of six different genre of book choice.
+
+Q: Who is the owner of the website?
+A: Our owner's name is Kevin Nguyen.
+
+Q: Do you offer refunds?
+A: We do not offer refunds.
+
+Q: What payment methods do you accept?
+A: We accept all major credit cards and PayPal.
+
+Q: Is my payment information secure?
+A: Absolutely, we use SSL encryption to rotect all transactions and do not store your payment information on our servers.
+
+Q: How can I reset my password if I forget it?
+A: You can reset your password using the "Forgot Password" option on the login page. Instructions will be sent to your registered email.
+
+Q: Can I access the website on my mobile device?
+A: Yes, our website is optimized for mobile devices. You can access our store from your smartphone or tablet.
+
+Q: Can I use others' account or share my account?
+A: No, we recommend you to not share your account or use a shared account because it offers a great security risk to the account.
+
+Q: What is BookStore?
+A: BookStore is an online bookstore where you can find a wide range of books in various genres, both physical and digital formats.
+
+Q: How can I contact the owner of BookStore?
+A: You can contact us through our "Contact Us" page, where you'll find various contact options, including email and phone support.
+
+Q: Do you have a physical store location?
+A: No, we are exclusively an online bookstore. However, our physical office is at .
+
+Q: How do I create an account?
+A: To create an account, click on "Log In" at the top of the page and follow the registration process.
+
+Q: How can I change my account information?
+A: Log in to your account and visit the "Account Settings" section, where you can update your personal information.
+
+Q: How can I track my order?
+A: You can track your order in the "Order History" section of your account. We'll also send you tracking information via email.
+
+Q: How do I search for books on your website?
+A: You can use the search bar at the top of the page to search by book title or use our AI chatbot. You can also browse books by genre or category.
+
+Q: Can I filter results?
+A: Yes, you can filter your search results by various criteria, such as genre, author, publication date, and price range.
+
+Q: Do you offer book recommendations?
+A: Yes, we do have a "Book Recommendation" section features in our AI chatbot.
+
+Q: What are your shipping options and costs?
+A: We offer various shipping options with different costs. You can get a free shipping for any purchases over $25.
+
+Q: What is the estimated delivery time for my order?
+A: The estimated delivery time depends on your location and the shipping method you choose. You can find more information during the checkout process.
+
+Q: How do you protect my personal information?
+A: We take your privacy seriously. Please refer to our Privacy Policy for detailed information on how we protect and handle your data.
+
+Q: Do you share my information with third parties?
+A: We do not share your information with third parties. 
