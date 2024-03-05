@@ -12,4 +12,4 @@ BotPress Chatbot: The current state of the project with a working chatbot. It al
 To run the chatbot, Copy the URL in Chatbot.url inside the BotPress Chabot folder. You can also paste this URL directly:
 https://mediafiles.botpress.cloud/caee7b2a-dfc3-482c-808e-2c4d9ba68b21/webchat/bot.html
 
-# Note: The API is running out of tokens, and the AI is no longer working.
+# Note: The API token is depleted, and the AI is no longer working.
